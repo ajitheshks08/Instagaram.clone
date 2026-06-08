@@ -1,0 +1,25 @@
+.sidebar{
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    width:72px;
+    background-color: #ffffff;
+    border-right: 1px solid #efefef;
+    
+}
+.profile-image{
+    margin-top:12px;
+    width:24px;
+    border-radius:12px;
+}
+.image{
+    width:24px;
+}
+.sidebar-link{
+    height:57px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
